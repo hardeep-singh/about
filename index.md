@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/styles.css">
+
 # Hardeep Singh
 
 **iOS Developer - 12+ Years of Experience**

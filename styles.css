@@ -1,0 +1,4 @@
+/* Hides the horizontal line that may appear at the top of the page */
+hr, .page-header {
+    display: none;
+}

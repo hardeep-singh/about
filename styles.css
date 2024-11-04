@@ -7,3 +7,7 @@ hr, .page-header {
     margin: 5px 0;
     line-height: 1.2;
 }
+
+.icon-red {
+    color: #66cca2;
+  }

@@ -2,3 +2,8 @@
 hr, .page-header {
     display: none;
 }
+
+.left p {
+    margin: 5px 0;
+    line-height: 1.2;
+}
